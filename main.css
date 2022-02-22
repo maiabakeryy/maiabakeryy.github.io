@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+@font-face{
+	
+src: url("SVN-Lobster.ttf");
+	font-family: lobster;}
+.menu{
+	margin-top: 50px;
+}
+
+
+.menu h2{
+	font-family: Lobster;
+	margin-top: 80px;
+	margin-bottom: 50px;
+}
+.bdc h5{
+	font-family: Dongle;
+	font-size: 40px;
+}
+.bdc p{
+	font-family: Dongle;
+	font-size: 20px;
+}
+
+
+.bdc a{
+	color:#BD3C48;
+}
+.bdc{
+	margin-top: 50px;
+}
+.chan{
+	background-color:   black;
+	margin-top: 50px;
+}
+.footer{
+	padding-top: 70px;
+}
+.footer p,i {
+	color: white;
+	padding: 8px
+}
+.ft1 a{
+	padding: 15px;
+}
+.footer-list{
+	padding-top: 70px;
+}
+.footerlist ul{
+	list-style: none;
+	
+}
+.ftlist ul{
+	list-style: none;
+	
+}
+.ftlist2 ul{
+	list-style: none;
+	
+}
+.footer-list li a ,h5{
+	color: white;
+}
+.ftlist li, a, h5{
+	color: white;
+	
+}
+.ftlist2 li, a, h5{
+	color: white;
+}
+
+
